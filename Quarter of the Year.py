@@ -1,4 +1,4 @@
-# Jose Perez
+# Joseman212
 # 7/10/2020
 
 import math

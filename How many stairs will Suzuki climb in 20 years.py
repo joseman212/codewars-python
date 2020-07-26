@@ -1,4 +1,4 @@
-# joseman212
+# Joseman212
 # 4/8/20
 
 def stairs_in_20(stairs):
