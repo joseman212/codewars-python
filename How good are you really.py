@@ -1,4 +1,4 @@
-# joseman212
+# Joseman212 
 # 4/8/2020
 
 def better_than_average(class_points, your_points):

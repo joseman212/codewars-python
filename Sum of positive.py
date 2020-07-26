@@ -1,4 +1,4 @@
-# joseman212
+# Joseman212
 # 4/12/2020
 
 def positive_sum(arr):
